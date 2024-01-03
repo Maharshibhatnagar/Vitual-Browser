@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/intro.gif" width="650" height="auto"/>
 </div>
 
-# n.eko
+# n.eko.
 
 Welcome to Neko, a self-hosted virtual browser that runs in Docker and uses WebRTC technology. Neko is a powerful tool that allows you to **run a fully-functional browser in a virtual environment**, giving you the ability to **access the internet securely and privately from anywhere**. With Neko, you can browse the web, **run applications**, and perform other tasks just as you would on a regular browser, all within a **secure and isolated environment**. Whether you are a developer looking to test web applications, a **privacy-conscious user seeking a secure browsing experience**, or simply someone who wants to take advantage of the **convenience and flexibility of a virtual browser**, Neko is the perfect solution.
 
@@ -36,13 +36,13 @@ In addition to its security and privacy features, Neko offers the **ability for 
 
 Neko is also a great tool for **hosting watch parties** and interactive presentations. With its virtual browser capabilities, Neko allows you to host watch parties and presentations that are **accessible from anywhere**, without the need for in-person gatherings. This makes it easy to **stay connected with friends and colleagues**, even when you are unable to meet in person. With Neko, you can easily host a watch party or give an **interactive presentation**, whether it's for leisure or work. Simply invite your guests to join the virtual environment, and you can share the screen and **interact with them in real-time**.
 
-## About
+## About.
 
 This app uses WebRTC to stream a desktop inside of a docker container, original author made this because [rabb.it](https://en.wikipedia.org/wiki/Rabb.it) went under and his internet could not handle streaming and discord kept crashing when his friend attempted to. He just wanted to watch anime with his friends ლ(ಠ益ಠლ) so he started digging throughout the internet and found a few *kinda* clones, but none of them had the virtual browser, then he found [Turtus](https://github.com/Khauri/Turtus) and he was able to figure out the rest.
 
 Then I found [this](https://github.com/nurdism/neko) project and started to dig into it. I really liked the idea of having collaborative browser browsing together with multiple people, so I created a fork. Initially, I wanted to merge my changes to the upstream repository, but the original author did not have time for this project anymore and it got eventually archived.
 
-## Use-cases and comparison
+## Use-cases and comparison.
 
 Neko started as a virtual browser that is streamed using WebRTC to multiple users.
 - It is **not only limited to a browser**; it can run anything that runs on linux (e.g. VLC). Browser only happens to be the most popular and widely used use-case.
@@ -80,7 +80,7 @@ Compared to clientless remote desktop gateway (e.g. [Apache Guacamole](https://g
 - **Built in audio** support, what is not part of Apache Guacamole or noVNC.
 - **Multi-participant control**, what is not natively supported by Apache Guacamole or noVNC.
 
-### Supported browsers
+### Supported browsers.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/firefox.svg" title="m1k1o/neko:firefox" width="60" height="auto"/>
@@ -93,7 +93,7 @@ Compared to clientless remote desktop gateway (e.g. [Apache Guacamole](https://g
   <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/tor-browser.svg" title="m1k1o/neko:tor-browser" width="60" height="auto"/>
 </div>
 
-### Other programs
+### Other programs.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/remmina.png" title="m1k1o/neko:remmina" width="60" height="auto"/>
@@ -104,7 +104,7 @@ Compared to clientless remote desktop gateway (e.g. [Apache Guacamole](https://g
   ... others in <a href="https://github.com/m1k1o/neko-apps">m1k1o/neko-apps</a>
 </div>
 
-### Features
+### Features.
 
   * Text Chat (With basic markdown support, discord flavor)
   * Admin users (Kick, Ban & Force Give/Release Controls, Lock room)
@@ -129,13 +129,13 @@ I like cats 🐱 (`Neko` is the Japanese word for cat), I'm a weeb/nerd.
 
 ***But why the cat butt?*** Because cats are *assholes*, but you love them anyways.
 
-## Multiple rooms
+## Multiple rooms.
 
 For n.eko room management software, visit [neko-rooms](https://github.com/m1k1o/neko-rooms).
 
 It also offers zero-knowledge [installation script (with HTTPS and Traefik)](https://github.com/m1k1o/neko-rooms/#zero-knowledge-installation-with-https-and-traefik).
 
-## Documentation
+## Documentation.
 
 * [Getting Started](https://neko.m1k1o.net/#/getting-started/)
   * [Quick Start](https://neko.m1k1o.net/#/getting-started/quick-start)
@@ -153,6 +153,6 @@ It also offers zero-knowledge [installation script (with HTTPS and Traefik)](htt
 
 Navigate to [.docker](.docker) folder for further information.
 
-## Support
+## Support.
 
 If you want to support this project, you can do it [here](https://github.com/sponsors/m1k1o).
